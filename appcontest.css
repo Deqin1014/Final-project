@@ -3,12 +3,24 @@ body{
 }
 
 h1{
-    font-family:"DFKai-SB";
+    font-family:"標楷體";
     color:#FF8033;
-    
 }
 
 h2{
-    font-family:"DFKai-SB";
-    color:red
+    font-family:"標楷體";
+}
+
+h4{
+    font-family: "標楷體";
+    font-size: 24px;
+    color:#B8860B
+}
+
+a{
+    color:#F08080
+}
+
+#test{
+    color:#4DE680
 }
