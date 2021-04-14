@@ -1,0 +1,28 @@
+body{
+    background-image:url(Background.jpg);
+}
+
+h1{
+    font-family:"標楷體";
+    font-size: 50px;
+    color:#FF8033;
+}
+
+h2{
+    font-family:"標楷體";
+}
+
+h3{
+    font-family:"標楷體";
+    color:#FFF8DC
+}
+
+a{
+    color:#F08080
+}
+
+#test{
+    font-family: "標楷體";
+    font-size: 22px;
+    color:#50EAD1
+}
